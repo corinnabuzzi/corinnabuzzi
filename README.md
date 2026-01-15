@@ -8,17 +8,17 @@ I’m a software development student with a humanities-oriented academic backgro
 
 
 ## Purpose
-This repository serves three main functions:
+This space serves three main functions:
 1. **Portfolio & Evidence of Practice**  
    Projects, exercises, and experiments that demonstrate applied skills rather than isolated theory.
 2. **Learning Documentation**  
    Notes, summaries, diagrams, and conceptual write-ups capturing both understanding and gaps as they emerge.
 3. **Accountability & Open Sharing**  
    A public structure that encourages consistency and makes the learning process visible and inspectable.
-The purpose of this repository is not to present polished or finished products, but to maintain a transparent, evolving record of how skills are developed over time: what I study, what I build, what breaks, and what improves.
+The purpose of this is not to present polished or finished products, but to maintain a transparent, evolving record of how skills are developed over time: what I study, what I build, what breaks, and what improves.
 
 ## Status
-This is a living repository.  
+This is a living set repositories.  
 Expect incomplete work, refactors, changing conventions, and visible iteration over time.
 Stability is not the goal. Traceability of learning is.
 
