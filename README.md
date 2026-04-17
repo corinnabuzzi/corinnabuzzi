@@ -1,36 +1,32 @@
-# Hi there!
-Welcome to my GitHub space dedicated to sharing my self-directed learning journey.  
+# Hello world! 
 
-Here I will upload notes, exercises, projects, and certificates from the courses and materials I work through.
+Welcome to my GitHub: here I'll keep track and share what I'm learning and working on as I go.
 
-# About me
-I’m a software development student with a humanities-oriented academic background, currently transitioning into computer science through formal training and self-directed study. This repository consolidates that transition into a single, structured workspace.
+I use this space to upload notes, exercises, projects, and anything else I build while learning.
 
-## Purpose
-This space serves three main functions:
-1. **Portfolio & Evidence of Practice** : projects, exercises, and experiments.
-2. **Learning Documentation**: notes, summaries, diagrams
-3. **Accountability & Open Sharing**: a public structure that encourages consistency and makes the learning process visible and shareable.
+## About me
+I’m a full-stack software development student, with a humanities-oriented background. It still shapes how I approach problems and computational thinking, and I plan to integrate more of that into this journey over time.
 
-The purpose of this is not to present polished or finished products, but to maintain a transparent, evolving record of how skills are developed over time: what I study, what I build, what breaks, and what improves.
+I’m currently transitioning into computer science through both formal training (I attend an ITS program) and self-study. This repo is basically where that transition takes shape.
 
-## Status
-This is a living set of repositories.  
-Expect incomplete work, refactors, changing conventions, and visible iteration over time.
-Stability is not the goal. Traceability of learning is.
+This isn’t a polished portfolio — it’s more of a working log. Partly for documentation, partly because I like sharing the learning process.
+
+The goal is to document the process, not just the results. So, hoepfully, you’ll see things break, get rewritten, improved, or abandoned. This is all work in progress.
 
 ## Currently working on
-*(To be updated)*  
-Planned starting points include:
-- Harvard's [Introduction to Programming with Python](https://cs50.harvard.edu/python/) - notes found [here](https://github.com/corinnabuzzi/cs50p)
-- Website portfolio (https://corinnabuzzi.github.io/website/) - also a public repo hosting all the files https://github.com/corinnabuzzi/website)
+
+- Harvard’s _CS50 – Introduction to Computer Science_  
+    (planning to also complete CS50P and CS50 Web)  
+    → notes available \[here]
   
-## Contact
-If you have any questions or feedback, feel free to reach out via  
-- Email: corinnabuzzi48@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/corinna-buzzi,  
-as I’m always open to discussion and feedback and looking forward to hearing from you!
+- Personal portfolio website — work in progress
+
+## Contacts
+Feel free to reach out, as I'm always open to connection. 
+Contacts:
+
+Email: corinnabuzzi48@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/corinna-buzzi](https://www.linkedin.com/in/corinna-buzzi)
 
 ## License
-Unless otherwise specified, code and documentation are shared for educational purposes.  
-
+Unless stated otherwise, everything here is shared for learning purposes.
