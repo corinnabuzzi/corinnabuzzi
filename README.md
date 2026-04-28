@@ -9,9 +9,7 @@ I’m a full-stack software development student, with a humanities-oriented back
 
 I’m currently transitioning into computer science through both formal training (I attend an ITS program) and self-study. This repo is basically where that transition takes shape.
 
-This isn’t a polished portfolio — it’s more of a working log. Partly for documentation, partly because I like sharing the learning process.
-
-The goal is to document the process, not just the results. So, hoepfully, you’ll see things break, get rewritten, improved, or abandoned. This is all work in progress.
+This is designed to be a kind of working log: partly for documentation, partly because I like shared learning. The goal is to document the process, not just the results. So, hoepfully, you’ll see things break, get rewritten, improved, or abandoned. This is all work in progress.
 
 ## Currently working on
 
