@@ -15,7 +15,7 @@ This is designed to be a kind of working log: partly for documentation, partly b
 
 - Harvard’s _CS50 – Introduction to Computer Science_  
     (planning to also complete CS50P and CS50 Web)  
-    → notes available \[here]
+    → notes available [here](https://github.com/corinnabuzzi/cs50)
   
 - Personal portfolio website — work in progress
 
