@@ -14,7 +14,7 @@ I plan to build CLI tools, TUIs, and tinker with Linux-adjacent and dev tooling 
 - Personal portfolio website — work in progress
 
 ## Contacts
-Feel free to reach out, as I'm always open to connection. 
+Feel free to reach out!
 
 Contacts:
 
