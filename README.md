@@ -15,25 +15,6 @@ I plan to build CLI tools, TUIs, and tinker with Linux-adjacent and dev tooling 
 
 ## Stats!
 
-# corinnabuzzi
-
-```console
-$ whoami
-Computer Science student
-
-$ interests
-Java
-Linux
-Web technologies
-Software engineering
-
-$ currently
-Building projects
-Studying CS fundamentals
-```
-
-## stats
-
 <p align="center">
   <img
     height="160"
@@ -44,17 +25,6 @@ Studying CS fundamentals
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=corinnabuzzi&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=c9d1d9"
   />
 </p>
-
-```console
-$ pwd
-/home/corinnabuzzi
-
-$ ls
-projects/  notes/  experiments/
-
-$ echo "Thanks for stopping by."
-```
-
 
 ## Contacts
 Feel free to reach out!
