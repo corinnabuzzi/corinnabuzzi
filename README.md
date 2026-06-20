@@ -15,14 +15,18 @@ I plan to build CLI tools, TUIs, and tinker with Linux-adjacent and dev tooling 
 
 ## Stats!
 
+```console
+$ cat ~/.github/stats
+```
+
 <p align="center">
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=corinnabuzzi&show_icons=false&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=c9d1d9&hide=stars"
+    src="https://github-readme-stats.vercel.app/api?username=corinnabuzzi&show_icons=false&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&hide=stars"
   />
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=corinnabuzzi&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=corinnabuzzi&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e"
   />
 </p>
 
