@@ -11,7 +11,7 @@ I plan to build CLI tools, TUIs, and tinker with Linux-adjacent and dev tooling 
 
 ## Currently working on
 
-- Personal portfolio website — work in progress: follow progress by checking out [the repo!](https://github.com/corinnabuzzi/portfolio)
+- [Personal portfolio website](https://corinnabuzzi.github.io/portfolio/) — work in progress: follow progress by checking out [the repo](https://github.com/corinnabuzzi/portfolio) or 
 
 ## Stats!
 
