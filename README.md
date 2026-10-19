@@ -1,24 +1,11 @@
-# Hello world! 
+# Corinna Buzzi
 
-I'm Corinna, a software development student attending an ITS program in Italy, with a background in languages and literature.
+Full-stack developer in training, based in Milan. I'm in the Fullstack Software Development program at ITS Tech Talent Factory.
 
-This is where I keep track of what I'm learning and building. Sharing the process matters to me so you'll find notes and exercises alongside the projects.
+I studied languages before I studied code, and I still think programming languages and natural languages are basically the same kind of thing.
 
-## About me
-I came to programming through self-study before going back to school for it. My humanities background still shapes how I think about systems, structure, and abstraction.
+Outside of school and work I use Arch Linux, do most things from the terminal, and write small tools when I need them.
 
-I plan to build CLI tools, TUIs, and tinker with Linux-adjacent and dev tooling projects for fun. For school and work, I work on full-stack web apps, with a growing focus on backend.
+My coursework from the ITS program, exercises and exam projects, lives in [fsda1-ITS-Tech-Talent-Factory](https://github.com/fsda1-ITS-Tech-Talent-Factory).
 
-## Currently working on
-
-- [Personal portfolio website](https://corinnabuzzi.github.io/portfolio/) — work in progress: follow progress by checking out [the repo](https://github.com/corinnabuzzi/portfolio) or
-
-## Contacts
-Feel free to reach out!
-
-Email: corinnabuzzi48@gmail.com  
-
-LinkedIn: [https://www.linkedin.com/in/corinna-buzzi](https://www.linkedin.com/in/corinna-buzzi)
-
-## License
-Unless stated otherwise, everything here is shared for learning purposes.
+[LinkedIn](https://www.linkedin.com/in/corinna-buzzi) · [corinnabuzzi48@gmail.com](mailto:corinnabuzzi48@gmail.com)
