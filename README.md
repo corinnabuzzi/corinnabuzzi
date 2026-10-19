@@ -6,6 +6,6 @@ I studied languages before I studied code, and I still think programming languag
 
 Outside of school and work I use Arch Linux, do most things from the terminal, and write small tools when I need them.
 
-My coursework from the ITS program, exercises and exam projects, lives in [fsda1-ITS-Tech-Talent-Factory](https://github.com/fsda1-ITS-Tech-Talent-Factory).
+My coursework from the ITS program, exercises and exam projects, lives in [ITS Tech Talent Factory coursework]([https://github.com/buzzi-fsda1-coursework)).
 
 [LinkedIn](https://www.linkedin.com/in/corinna-buzzi) · [corinnabuzzi48@gmail.com](mailto:corinnabuzzi48@gmail.com)
