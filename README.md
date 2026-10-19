@@ -11,20 +11,10 @@ I plan to build CLI tools, TUIs, and tinker with Linux-adjacent and dev tooling 
 
 ## Currently working on
 
-- [Personal portfolio website](https://corinnabuzzi.github.io/portfolio/) — work in progress: follow progress by checking out [the repo](https://github.com/corinnabuzzi/portfolio) or 
-
-## Stats!
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=corinnabuzzi&show_icons=false&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&hide=stars"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corinnabuzzi&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e"/>
-</p>
-</p>
+- [Personal portfolio website](https://corinnabuzzi.github.io/portfolio/) — work in progress: follow progress by checking out [the repo](https://github.com/corinnabuzzi/portfolio) or
 
 ## Contacts
 Feel free to reach out!
-
-Contacts:
 
 Email: corinnabuzzi48@gmail.com  
 
